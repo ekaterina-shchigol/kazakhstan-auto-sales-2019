@@ -24,7 +24,7 @@
 
 ## Как запустить
 
-1. Скачайте исходный файл [`autokz2019.csv`](https://code.s3.yandex.net/high-education_higher-data-analytics/autokz2019.csv?etag=8366c71d33cc137ee3547c8c320a3940) из задания Яндекс Практикума.
+1. Скачайте исходный файл [`autokz2019.csv`](https://code.s3.yandex.net/high-education_higher-data-analytics/autokz2019.csv?etag=8366c71d33cc137ee3547c8c320a3940).
 2. Положите `autokz2019.csv` рядом с `auto_kz_analysis.ipynb` в одну папку.
 3. Откройте тетрадку в Jupyter Notebook и выполните все ячейки по порядку. Используются Python 3, pandas и Matplotlib; модуль `re` входит в стандартную библиотеку Python.
 
